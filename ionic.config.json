@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-integration-capacitor-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

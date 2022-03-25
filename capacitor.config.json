@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "google-maps-integration-capacitor-test",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
